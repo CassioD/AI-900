@@ -1,2 +1,2 @@
 # AI-900
-Repository for testes on Azure Machine Learning
+Repository for tests on Azure Machine Learning
