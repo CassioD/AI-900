@@ -11,25 +11,42 @@ Este repositório contém um tutorial passo a passo sobre como realizar a análi
 ## Passos
 
 1. **Preparação do Ambiente:**
-   - Crie um projeto na sua conta Azure e acesse o Azure Machine Learning Studio.
+   - Acesse o portal da Azure e navegue até o Azure Language Studio.
+![image](https://github.com/CassioD/AI-900/assets/87616806/6a3d5091-f7d2-4a16-8f10-3bb732a166fb)
 
-2. **Importação do Conjunto de Dados:**
-   - Importe o conjunto de dados da música "Que País É Este" para o Azure Machine Learning Studio.
+
+2. **Configuração do Projeto:**
+   - Crie um novo projeto ou utilize um existente para realizar a análise de sentimentos da música.
+![image](https://github.com/CassioD/AI-900/assets/87616806/e004eff8-9bd1-4603-9d73-6aa8af145a6f)
+
 
 3. **Pré-processamento dos Dados:**
    - Realize o pré-processamento dos dados, como remoção de stopwords, tokenização, etc.
+![image](https://github.com/CassioD/AI-900/assets/87616806/33ff9796-768b-4fdc-98ab-e3456724b905)
 
-4. **Treinamento do Modelo:**
-   - Escolha um algoritmo de análise de sentimentos adequado (como Naive Bayes, SVM, ou Redes Neurais) e treine o modelo utilizando o conjunto de dados preparado.
 
-5. **Avaliação do Modelo:**
-   - Avalie o desempenho do modelo utilizando métricas como acurácia, precisão, recall, etc.
+4. **Análise de Sentimentos da Música:**
+   - Utilize o modelo treinado "Analyze sentiment and opinions" para realizar a análise de sentimentos da letra da música "Que País É Este".
+![image](https://github.com/CassioD/AI-900/assets/87616806/9308f65c-cab9-4849-8d0e-548062fde5d0)
 
-6. **Análise de Sentimentos da Música:**
-   - Utilize o modelo treinado para realizar a análise de sentimentos da letra da música "Que País É Este".
+
+5. **Escolha do idioma do texto**
+![image](https://github.com/CassioD/AI-900/assets/87616806/129d32aa-fd69-4bf9-99ab-2147045bc067)
+
+
+6. **Colagem da letra da música**
+![image](https://github.com/CassioD/AI-900/assets/87616806/f081d1e6-b7f7-497e-b611-927b0ee7adef)
+
+
+7. **Pré-processamento dos Dados:**
+   - Realize o pré-processamento dos dados, como remoção de stopwords, tokenização, etc.
+![image](https://github.com/CassioD/AI-900/assets/87616806/4b5316a3-8410-4160-bd49-f8bb676e7304)
+
 
 7. **Visualização dos Resultados:**
    - Visualize os resultados da análise de sentimentos em formato gráfico ou de texto.
+![image](https://github.com/CassioD/AI-900/assets/87616806/2689a29a-4fa0-400e-95ca-21cab10b4d02)
+
 
 ## Resultados Esperados
 
