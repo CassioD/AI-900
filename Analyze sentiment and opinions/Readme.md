@@ -10,7 +10,7 @@ Este repositório contém um tutorial passo a passo sobre como realizar a análi
 
 ## Passos
 
-1. ###**Preparação do Ambiente:**
+1. **###Preparação do Ambiente:**
    - Acesse o portal da Azure e navegue até o Azure Language Studio.
 ![image](https://github.com/CassioD/AI-900/assets/87616806/6a3d5091-f7d2-4a16-8f10-3bb732a166fb)
 
