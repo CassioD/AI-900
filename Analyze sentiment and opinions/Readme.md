@@ -10,7 +10,7 @@ Este repositório contém um tutorial passo a passo sobre como realizar a análi
 
 ## Passos
 
-1. **Preparação do Ambiente:**
+1. ###**Preparação do Ambiente:**
    - Acesse o portal da Azure e navegue até o Azure Language Studio.
 ![image](https://github.com/CassioD/AI-900/assets/87616806/6a3d5091-f7d2-4a16-8f10-3bb732a166fb)
 
@@ -31,14 +31,16 @@ Este repositório contém um tutorial passo a passo sobre como realizar a análi
 
 
 5. **Escolha do idioma do texto**
+
 ![image](https://github.com/CassioD/AI-900/assets/87616806/129d32aa-fd69-4bf9-99ab-2147045bc067)
 
 
-6. **Colagem da letra da música**
+7. **Colagem da letra da música**
+
 ![image](https://github.com/CassioD/AI-900/assets/87616806/f081d1e6-b7f7-497e-b611-927b0ee7adef)
 
 
-7. **Pré-processamento dos Dados:**
+9. **Pré-processamento dos Dados:**
    - Realize o pré-processamento dos dados, como remoção de stopwords, tokenização, etc.
 ![image](https://github.com/CassioD/AI-900/assets/87616806/4b5316a3-8410-4160-bd49-f8bb676e7304)
 
