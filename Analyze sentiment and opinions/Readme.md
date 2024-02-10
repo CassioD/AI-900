@@ -20,13 +20,13 @@ Este repositório contém um tutorial passo a passo sobre como realizar a análi
 ![image](https://github.com/CassioD/AI-900/assets/87616806/e004eff8-9bd1-4603-9d73-6aa8af145a6f)
 
 
-3. **Pré-processamento dos Dados:**
-   - Realize o pré-processamento dos dados, como remoção de stopwords, tokenização, etc.
+3. **Escolha dos Dados:**
+   - Realize a pesquisa da letra da música "Que país é esse"
 ![image](https://github.com/CassioD/AI-900/assets/87616806/33ff9796-768b-4fdc-98ab-e3456724b905)
 
 
 4. **Análise de Sentimentos da Música:**
-   - Utilize o modelo treinado "Analyze sentiment and opinions" para realizar a análise de sentimentos da letra da música "Que País É Este".
+   - Utilize o modelo treinado "Analyze sentiment and opinions".
 ![image](https://github.com/CassioD/AI-900/assets/87616806/9308f65c-cab9-4849-8d0e-548062fde5d0)
 
 
